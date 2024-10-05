@@ -40,6 +40,6 @@ The skeleton code is an interesting concept used in Emertxe. By looking into the
 To use this lexical analyzer, compile the C program and run it with a C source file as input.
 
 ```bash
-gcc lexical_analyzer.c -o lexer
-./lexer input.c
+gcc *.c
+./a.exe
 
